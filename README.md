@@ -1,6 +1,6 @@
-# Hi there,
+# Welcome,
 
-Welcome to the github portfolio of Mike Davies PhD (almost...)
+Welcome to the github portfolio of Mike Davies PhD (viva pending...)
 
 I'm currently working on expanding my portfolio and new projects will be added daily. 
 
