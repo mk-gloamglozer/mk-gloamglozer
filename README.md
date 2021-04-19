@@ -13,7 +13,7 @@ to the java projects in the near future. I've also made use of a couple of Javas
 ## Repos
 ### OOP-demo
 A demonstration of a number of OOP concepts as well as a basic IOC DI system. This project is the foundation of many of the other examples here being expanded 
-in later iterations to include elements of the Spring framework as neccacarry. 
+in later iterations to include elements of the Spring framework as necessary. 
 
 Once built (if you've got maven running it is easy with mvn exec::java), the program acts a very simple dice store, allowing the user to select dice to roll
 and returning the result of rolling these dice via an interactive cli. Later iterations will improve what the user can do in terms of adding dice. 
