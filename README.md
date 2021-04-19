@@ -8,6 +8,8 @@ My current area of expertise is **Java** and the **Spring** framework though I l
 but I'm also well versed in **Python** and I'm hoping to upload a few examples in the next few days. Finally I'm actively learning **C#** and hope to be able to put together something similar
 to the java projects in the near future. I've also made use of a couple of Javascript frameworks (React and Angular) in the past so making something with them is also on the list. 
 
+**The Spring-data repo is currently the best repo to get an idea of my work.**
+
 ## Repos
 ### OOP-demo
 A demonstration of a number of OOP concepts as well as a basic IOC DI system. This project is the foundation of many of the other examples here being expanded 
