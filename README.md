@@ -8,7 +8,7 @@ My current area of expertise is **Java** and the **Spring** framework though I l
 but I'm also well versed in **Python** and I'm hoping to upload a few examples in the next few days. Finally I'm actively learning **C#** and hope to be able to put together something similar
 to the java projects in the near future. I've also made use of a couple of Javascript frameworks (React and Angular) in the past so making something with them is also on the list. 
 
-**The Spring-data repo is currently the best repo to get an idea of my work.**
+**The spring-data repo is currently the best repo to get an idea of my work.**
 
 ## Repos
 ### OOP-demo
@@ -23,9 +23,11 @@ JUnit5 and the mockito extension were used to create the unit tests for this pro
 ## spring-DI
 This introduces the spring framework into the project to handle the dependancy injection and does away with the crude DI solution seen in OOP-demo.
 
-## spring-JPA
+## spring-data
 In the original project the dice store is represented by an in memory object. Here this is replaced by the in memory H2 database using Spring-jpa and hibernate 
 to enable persistant storage. 
+
+The latest update adds functionality to add dice using archetype templates. This update will be backported to other projects in time.
 
 ## spring-Web [Coming Soon]
 this project will expand the dice roller to accept REST based interaction
