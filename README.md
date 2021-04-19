@@ -21,9 +21,11 @@ and returning the result of rolling these dice via an interactive cli. Later ite
 JUnit5 and the mockito extension were used to create the unit tests for this program.
 
 ## spring-DI
+Expands on oop-demo
 This introduces the spring framework into the project to handle the dependancy injection and does away with the crude DI solution seen in OOP-demo.
 
 ## spring-data
+expands on spring-DI
 In the original project the dice store is represented by an in memory object. Here this is replaced by the in memory H2 database using Spring-jpa and hibernate 
 to enable persistant storage. 
 
