@@ -12,7 +12,7 @@ to the java projects in the near future. I've also made use of a couple of Javas
 
 ## Repos
 ### String-Analysis 
-Proteomic data analysis program written in python. This program analyses identifies Gene ontology terms linked with clustered protein groups. The program takes two inputs, a csv file containing at least two columns. The first column, headed Accession must contain valid Uniprot accession numbers and the second column, headed \__mclCluster should contain an integer group to which the protein belongs. The second file should contain protein accession numbers of the background proteome. Only proteins within this list will be considered. 
+Proteomic data analysis program written in python. This program analyses identifies Gene ontology terms linked with clustered protein groups. The program takes two inputs, a csv file containing at least two columns. The first column, headed accession, must contain valid Uniprot accession numbers and the second column, headed \__mclCluster should contain an integer group to which the protein belongs. The second file should contain protein accession numbers of the background proteome. Only proteins within this list will be considered. 
 
 The output is a number of images depicting gene ontology terms in a 'word cloud' style. The images are saved in a folder titled images in the folder from which the program was run. 
 
