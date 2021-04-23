@@ -2,7 +2,7 @@
 
 Welcome to the github portfolio of Mike Davies PhD (viva pending...)
 
-I'm currently working on expanding my portfolio and new projects will be added daily. 
+I'm currently working on expanding my portfolio and new projects will be added frequently. 
 
 My current area of expertise is **Java** and the **Spring** framework though I love front-end development too. Many of the projects within this repository are built in Java 
 but I'm also well versed in **Python** and I'm hoping to upload a few examples in the next few days. Finally I'm actively learning **C#** and hope to be able to put together something similar
