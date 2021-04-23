@@ -14,7 +14,7 @@ to the java projects in the near future. I've also made use of a couple of Javas
 ### String-Analysis 
 Proteomic data analysis program written in python. This program analyses identifies Gene ontology terms linked with clustered protein groups. The program takes two inputs, a csv file containing at least two columns. The first column, headed Accession must contain valid Uniprot accession numbers and the second column, headed \__mcl_cluster should contain an integer group to which the protein belongs. The second file should contain protein accession numbers of the background proteome. Only proteins within this list will be considered. 
 
-The output is a number of images in a folder titled images in the folder from which the program was run. 
+The output is a number of images depicting gene ontology terms in a 'word cloud' style. The images are saved in a folder titled images in the folder from which the program was run. 
 
 ### OOP-demo
 A demonstration of a number of OOP concepts as well as a basic IOC DI system. This project is the foundation of many of the other examples here being expanded 
